@@ -163,7 +163,6 @@ public boolean equals(Object anObject) {
 可以看出，String中的equals方法先是判断两个对象的引用（地址）是否相同，如果不相同再比较String的value是否相同。
 
 ## HashSet类 ##
-
 HashSet是Set接口的典型实现，大多数时候使用Set集合时就是使用这个实现类。HashSet按Hash算法来存储集合中的元素，因此具有很好的存取和查找性能。
 HashSet具有以下的特点：
 - 不能保证元素的排列顺序，顺序有可能发生变化，即HashSet是无序的。
