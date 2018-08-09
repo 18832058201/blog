@@ -79,7 +79,7 @@ theme: hexo-theme-next-5.1.2
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo : git@github.com:18832058201/18832058201.github.io.git
+  repo : git@github.com:pursuedream0820/18832058201.github.io.git
   branch: master
   
 #搜索功能  
